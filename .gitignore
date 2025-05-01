@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/Data/bioDiversityData.duckdb
+/Data/occurence.csv
